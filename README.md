@@ -1,6 +1,6 @@
 # Technitos
 
-A repository dedicated to managing my service bots for the various platforms I use. Currently, both my [Reddit](https://reddit.com/) bot and [Discord](https://discordapp.com/) are developed here.
+A repository dedicated to managing my service bots for the various platforms I use. Currently, both my [Reddit](https://github.com/Frontear/Technitos/tree/reddit) bot and [Discord](https://github.com/Frontear/Technitos/tree/discord) are developed here.
 
 ## License
 
