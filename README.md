@@ -7,7 +7,7 @@ A repository dedicated to managing my service bots for the various platforms I u
 - Clone this repository via `git clone https://github.com/Frontear/Technitos.git Technitos`
 - Follow the instructions in the other folders for continued setup
 
-Please keep any changes minimal, or at least give valid reasons for why the changes occur. Additionally, please keep specific files within their respective folders.
+If you'd like to make use of the run script provided in the root of this repo, please run `chmod +x run`, then `./run --help` for information.
 
 ## License
 
